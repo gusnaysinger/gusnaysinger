@@ -1,11 +1,15 @@
 
-<h1 align="center">👋 Hello, I'm Gustavo Naysinger</h1>
+# 👋 Hello, I'm Gustavo Naysinger
 
-###
-Junior Softer Developer | Systems Analysis and Development Student | Rio Grande Do Sul, Brazil
+Junior Software Developer | Systems Analysis and Development Student | Rio Grande Do Sul, Brazil
 
+Currently serving in the Army and attending university.
+
+## 📚 Summary
+- Systems Analysis and Development Student at UNINTER
+- FullStack Developer
 ###
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
@@ -25,9 +29,9 @@ Junior Softer Developer | Systems Analysis and Development Student | Rio Grande 
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 
-###
+## 🌍💻 Let's Connect
 
-<div align="center">
+<div>
   <a href="gustavonaysingerdemoura@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
