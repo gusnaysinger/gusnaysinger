@@ -2,7 +2,9 @@
 <h1 align="center">👋 Hello, I'm Gustavo Naysinger</h1>
 
 ###
+Junior Softer Developer | Systems Analysis and Development Student | Rio Grande Do Sul, Brazil
 
+###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
