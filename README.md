@@ -9,7 +9,6 @@ Currently serving in the Army and attending university.
 - Systems Analysis and Development Student at UNINTER
 - FullStack Developer
 ###
-<!--
 <div>
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -29,8 +28,8 @@ Currently serving in the Army and attending university.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
--->
-<div align="left">
+<!--
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="60" alt="bootstrap logo"  />
@@ -49,6 +48,7 @@ Currently serving in the Army and attending university.
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="60" alt="git logo"  />
 </div>
+-->
 
 ## 🌍💻 Let's Connect
 
