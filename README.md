@@ -30,7 +30,7 @@ Currently serving in the Army and attending university.
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 -->
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="60" alt="bootstrap logo"  />
